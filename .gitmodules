@@ -1,3 +1,6 @@
 [submodule "themes/martial-paper"]
 	path = themes/martial-paper
 	url = https://github.com/pedrodude/martial-paper
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit
